@@ -25,3 +25,6 @@ main.py 실행  Terminal 에서 D:\pythonWorkSpace > uvicorn main:app -reload --
 
 
 https://wikidocs.net/175213 -> 위키독스 점프 투 fastAPI 
+
+
+![image](https://github.com/user-attachments/assets/649420ff-bc45-4ff1-816d-e37410a5e1cf)
